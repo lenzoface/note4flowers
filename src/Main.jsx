@@ -29,11 +29,13 @@ function Main() {
         этой улыбки я готов тратить все свои средства и энергию начиная со
         знакомства, и заканчивая... никогда, до скончания своих дней.
       </p>
-      <img
-        src="https://lh3.googleusercontent.com/pw/AIL4fc-rhvhsjuj0J0lvmUmr4hKYiHB40fACS2BXbyR3bQ46zR-tviBbD1iOyA-bES9m3GTR32dQsQ9zoiri5Hf6GDn0KojV84_JtVKc2W2dCGo3QqVWQVER6cU_BgJ_qyj3g1oTGKjNGeIuWHauLpqEmFYNHw=w959-h709-s-no?authuser=0"
-        alt="UmkaSmilingPhoto"
-      />
-      <cite>- улыбка в которую влюбился навсегла</cite>
+      <div>
+        <img
+          src="https://lh3.googleusercontent.com/pw/AIL4fc-rhvhsjuj0J0lvmUmr4hKYiHB40fACS2BXbyR3bQ46zR-tviBbD1iOyA-bES9m3GTR32dQsQ9zoiri5Hf6GDn0KojV84_JtVKc2W2dCGo3QqVWQVER6cU_BgJ_qyj3g1oTGKjNGeIuWHauLpqEmFYNHw=w959-h709-s-no?authuser=0"
+          alt="UmkaSmilingPhoto"
+        />
+        <footer><i>- улыбка в которую влюбился навсегла</i></footer>
+      </div>
       <h3>Помимо цветов:</h3>
       <p>
         Приглашаю вас на прогулку по вечернему Тбилиси с изучением местных
@@ -47,6 +49,16 @@ function Main() {
           <cite>- Великий любитель Умки</cite>
         </footer>
       </blockquote>
+
+      <a
+        href="https://vm.tiktok.com/ZMjUyPds4/"
+        role="button"
+        className="contrast"
+      >
+        А это видео тебе пока я все еще сплю (нажми)
+      </a>
+      <br />
+      <br />
     </div>
   );
 }
