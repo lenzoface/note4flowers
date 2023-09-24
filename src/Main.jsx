@@ -34,7 +34,7 @@ function Main() {
           src="https://lh3.googleusercontent.com/pw/AIL4fc-rhvhsjuj0J0lvmUmr4hKYiHB40fACS2BXbyR3bQ46zR-tviBbD1iOyA-bES9m3GTR32dQsQ9zoiri5Hf6GDn0KojV84_JtVKc2W2dCGo3QqVWQVER6cU_BgJ_qyj3g1oTGKjNGeIuWHauLpqEmFYNHw=w959-h709-s-no?authuser=0"
           alt="UmkaSmilingPhoto"
         />
-        <footer><i>- улыбка в которую влюбился навсегла</i></footer>
+        <footer><i>- улыбка в которую влюбился навсегда</i></footer>
       </div>
       <h3 style={{ marginBottom: '0' }}>Помимо цветов:</h3>
       <p>
